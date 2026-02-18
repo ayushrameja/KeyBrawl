@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# KeyBrawl
+
+KeyBrawl is a typing practice and racing app built with Next.js and a Tauri desktop shell.
 
 ## Getting Started
 
